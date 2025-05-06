@@ -46,6 +46,8 @@ ________________________________________
 1.	Enter a Website URL: Enter the URL of the website you wish to analyze in the provided entry box.
 2.	Fetch Website HTML: Click the "Fetch Website HTML" button. The tool will retrieve the HTML content of the webpage and populate the input text box with the HTML code.
 3.	Analyze HTML: After fetching the HTML, click the "Analyze Code" button to validate the HTML code using tidy.
+
+   ![Image](https://github.com/user-attachments/assets/4d487698-9cc4-41d8-acfa-0b33af442705)
 ________________________________________
 5. Example Warnings
    
